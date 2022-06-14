@@ -1,2 +1,5 @@
 pongGame.py
 pong.kv
+.idea
+__pychache__
+.venv
